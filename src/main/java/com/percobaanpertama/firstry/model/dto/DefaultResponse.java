@@ -1,4 +1,4 @@
-package com.percobaanpertama.firstry.model;
+package com.percobaanpertama.firstry.model.dto;
 
 public class DefaultResponse {
   private Boolean status;
